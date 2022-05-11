@@ -26,7 +26,7 @@ class Program
 
         // process
         if (integerOne < 0) {
-          Console.WriteLine("Please input a positive integer!");
+            Console.WriteLine("Please input a positive integer!");
         }
         else
         {
