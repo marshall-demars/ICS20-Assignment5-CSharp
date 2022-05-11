@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/DJYkJczWgwOxYzfg6+bgj2lw1HiE4teCgiVh1JXTMdteDux0ZcLIQB508ErXnQULLu/cPSMYJIV7uOhTw411Q==",
+  "dgSpecHash": "3Dftqq8YybakOYnoeWAtYWnvhTdoThYma23CQLvTH63gbw29b6av41Y5shGp4K1RADx0FtEotuv57avW+pbyew==",
   "success": true,
-  "projectFilePath": "/home/runner/CSharp/main.csproj",
+  "projectFilePath": "/home/runner/ICS20-Assignment5-CSharp/main.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
