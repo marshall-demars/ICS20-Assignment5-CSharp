@@ -41,13 +41,13 @@ class Program
                     denominator = counter * 2 + 1;
                     total += - (NUMERATOR / denominator);
                 }
+                
                 counter++;
             }
+            // output 
+            Console.WriteLine("The number is " + total);
+            Console.WriteLine("");
         }
-        Console.WriteLine("The number is " + total);
-        Console.WriteLine("");
         Console.WriteLine("\nDone.");
     }
 }
-
-
