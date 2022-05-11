@@ -27,21 +27,21 @@ class Program
         // process
         if (integerOne < 0) {
           Console.WriteLine("Please input a positive integer!");
-        } 
-        else 
+        }
+        else
         {
-            while (counter < integerOne) 
+            while (counter < integerOne)
             {
                 if (counter % 2 == 0) {
                     denominator = counter * 2 + 1;
                     total += NUMERATOR / denominator;
-                } 
-                else 
+                }
+                else
                 {
                     denominator = counter * 2 + 1;
                     total += - (NUMERATOR / denominator);
                 }
-                
+
                 counter++;
             }
             // output 
