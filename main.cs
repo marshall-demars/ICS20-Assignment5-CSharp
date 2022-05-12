@@ -25,14 +25,16 @@ class Program
         integerOne = Convert.ToInt32(Console.ReadLine());
 
         // process
-        if (integerOne < 0) {
+        if (integerOne < 0)
+        {
             Console.WriteLine("Please input a positive integer!");
         }
         else
         {
             while (counter < integerOne)
             {
-                if (counter % 2 == 0) {
+                if (counter % 2 == 0)
+                {
                     denominator = counter * 2 + 1;
                     total += NUMERATOR / denominator;
                 }
